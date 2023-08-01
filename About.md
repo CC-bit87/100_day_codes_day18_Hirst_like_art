@@ -1,0 +1,2 @@
+# 100_day_codes_day18_Hirst_like_art
+This Python program is a dynamic art generator! Using the Turtle graphics library, it creates a stunning array of colored spots on the screen. Key features include the use of a color palette extracted from an image using colorgram and the ability to change the spot color randomly. The program's speed and positioning controls enable it to paint a full-screen piece in a matter of seconds. Unleash your inner artist with this vibrant, mesmerizing and interactive artwork generator!
